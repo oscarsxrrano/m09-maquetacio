@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(92, 87, 83);
+    margin: 0;
+}
+
+.container {
+    background-color: rgb(148, 148, 129);
+}
+
+.header {
+    background-color: rgb(66, 67, 126);
+}
+
+.benvinguda {
+    background-color: rgb(71, 116, 95);
+}
+
+.galeria {
+    background-color: rgb(4, 59, 68);
+}
+
+.testimoni {
+    background-color: rgb(64, 87, 28);
+}
+
+.footer {
+    background-color: rgb(70, 31, 5);
+}
